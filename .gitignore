@@ -1,6 +1,7 @@
 .idea/
 .data/
 .env/
+.make/
 .config/
 venv/
 *.pyc

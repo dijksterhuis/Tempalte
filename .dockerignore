@@ -1,0 +1,6 @@
+.idea/
+.git/
+.make/
+.config/ 
+.data/
+README.md
