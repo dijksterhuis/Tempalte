@@ -1,0 +1,7 @@
+.idea/
+.data/
+.env/
+.config/
+venv/
+*.pyc
+*__pycache__*
