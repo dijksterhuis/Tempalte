@@ -26,3 +26,8 @@ venv/
 *.fdb_latexmk
 *.gz
 *.lb
+
+# bibtext
+*.bbl
+*.blg
+*.aux
