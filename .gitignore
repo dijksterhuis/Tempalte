@@ -1,8 +1,33 @@
+# Development
 .idea/
 .data/
 .env/
 .make/
 .config/
 venv/
+
+# General data files
+*.zip
+*.bz2
+*.tar
+*.gz
 *.pyc
 *__pycache__*
+*.log
+*.swap
+
+# OSX
+.DS_Store
+*/.DS_Store
+
+# LaTex
+*.log
+*.fls
+*.fdb_latexmk
+*.gz
+*.lb
+
+# bibtext
+*.bbl
+*.blg
+*.aux
