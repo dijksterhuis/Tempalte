@@ -5,6 +5,7 @@
 .make/
 .config/
 venv/
+secrets/
 
 # General data files
 *.zip
